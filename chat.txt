@@ -1,0 +1,11 @@
+THIS IS WHATSUP CODE:
+
+AUTHOR :sowmiya
+
+1.profile page code
+2.chat screen code
+3.Last seen code
+4.Attachment(Image,Audio,video,txt)
+5.adding audio call feature
+6.adding video call feature
+7.adding status so that user can play train games
